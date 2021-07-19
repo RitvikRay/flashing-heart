@@ -2,7 +2,7 @@
 > Open this page at [https://ritvikray.github.io/flashing-heart/](https://ritvikray.github.io/flashing-heart/)
 
 ## Turtorials
-* [Turtorials](Flashing Heart/turtorial)
+* [turtorials](Flashing Heart/turtorial)
 
 ## Edit this project ![Build status badge](https://github.com/ritvikray/flashing-heart/workflows/MakeCode/badge.svg)
 
