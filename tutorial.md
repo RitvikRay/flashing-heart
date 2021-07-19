@@ -19,5 +19,5 @@ basic.forever(function () {
 })
 ```
 ## Step 3
-Mow you vsn try it on your micro:bit!
+Mow you can try it on your micro:bit!
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
